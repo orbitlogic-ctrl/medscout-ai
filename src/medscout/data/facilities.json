@@ -1,0 +1,60 @@
+[
+  {
+    "id": "ms-syn-001",
+    "name": "Fictional Bubble Comet Clinic",
+    "city": "Bologna",
+    "region": "Emilia-Romagna",
+    "services": [
+      "Dermatology consultation",
+      "Abdominal ultrasound"
+    ],
+    "provenance": "synthetic",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "ms-syn-002",
+    "name": "Fictional Velvet Moon Clinic",
+    "city": "Modena",
+    "region": "Emilia-Romagna",
+    "services": [
+      "Cardiology consultation"
+    ],
+    "provenance": "synthetic",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "ms-syn-003",
+    "name": "Fictional Paper Planet Clinic",
+    "city": "Parma",
+    "region": "Emilia-Romagna",
+    "services": [
+      "Abdominal ultrasound"
+    ],
+    "provenance": "synthetic",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "ms-syn-004",
+    "name": "Fictional Pocket Galaxy Clinic",
+    "city": "Reggio Emilia",
+    "region": "Emilia-Romagna",
+    "services": [
+      "Dermatology consultation",
+      "Cardiology consultation"
+    ],
+    "provenance": "synthetic",
+    "verification_status": "unverified"
+  },
+  {
+    "id": "ms-syn-005",
+    "name": "Fictional Clockwork Cloud Clinic",
+    "city": "Ferrara",
+    "region": "Emilia-Romagna",
+    "services": [
+      "Cardiology consultation",
+      "Abdominal ultrasound"
+    ],
+    "provenance": "synthetic",
+    "verification_status": "unverified"
+  }
+]
